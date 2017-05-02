@@ -1,0 +1,9 @@
+1.  Modify example to use app.js
+2.  Modify to use HelloController with existing content
+3.  Modify to add a controller
+4.  Inject http to get data from this route:  https://jsonplaceholder.typicode.com/users
+5.  Display data on page
+6.  Format data
+7.  Interact with data
+8.  Show/hide certain types of data
+9.  Disable / Loading
